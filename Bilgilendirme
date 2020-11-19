@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() {
+    printf("Hi I'm faho god");
+    printf("I'm going to be best developer ever");
+    printf("bye now");
+    return 0;
+}
